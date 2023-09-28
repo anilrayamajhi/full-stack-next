@@ -14,6 +14,16 @@ pnpm dev
 bun dev
 ```
 
+---
+
+> https://gist.github.com/adrianhajdin/6df61c6cd5ed052dce814a765bff9032
+>
+> https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
+>
+> https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view
+
+---
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
